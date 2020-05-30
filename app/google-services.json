@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370364353869",
+    "firebase_url": "https://book-searchr-e39bb.firebaseio.com",
+    "project_id": "book-searchr-e39bb",
+    "storage_bucket": "book-searchr-e39bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370364353869:android:13114c42d9f905ac407b04",
+        "android_client_info": {
+          "package_name": "com.learntodroid.mvvmrestapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370364353869-9ga8ub4km95684r526dokocupqi3sbef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ48RQ7_lZGT4ak2B9U4psUUeJcQOsWHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370364353869-9ga8ub4km95684r526dokocupqi3sbef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
